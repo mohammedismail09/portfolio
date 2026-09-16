@@ -1,16 +1,38 @@
-# React + Vite
+# Minimalist Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A sleek, editorial-style personal portfolio built for showcasing full-stack web applications, product design work, and client systems. Built with **React**, **Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ⚡ Features
 
-## React Compiler
+* **Typewriter Hero Loop:** A dependency-free typing and deleting animation with a blinking caret.
+* **Tab-Based Navigation:** Fast client-side tab switching across `Home`, `Resume`, and `Info` views without external routing overhead.
+* **Curated Work Grid:** Responsive 2-column showcase highlighting live platforms, custom SaaS solutions, and backend architectures.
+* **Resume & Experience Timeline:** Clean, 2-column grid layout displaying professional experience, education, and technical competencies.
+* **Responsive & Accessible:** Built mobile-first with high-contrast typography and subtle interactive hover states.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* **Frontend:** [React](https://react.dev/)
+* **Build Tool:** [Vite](https://vitejs.dev/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Design Aesthetic:** Minimalist editorial monospace-meets-sans typography
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone & Install
+
+```bash
+# Clone the repository
+git clone [https://github.com/yourusername/portfolio.git](https://github.com/yourusername/portfolio.git)
+
+# Navigate into the project folder
+cd portfolio
+
+# Install dependencies
+npm install
